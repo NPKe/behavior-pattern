@@ -1,0 +1,6 @@
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\Film\obj\Debug\FilmCount.csprojResolveAssemblyReference.cache
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\Film\bin\Debug\Film.exe.config
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\Film\bin\Debug\Film.exe
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\Film\bin\Debug\Film.pdb
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\Film\obj\Debug\Film.exe
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\Film\obj\Debug\Film.pdb

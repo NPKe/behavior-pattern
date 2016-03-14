@@ -1,0 +1,6 @@
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\GiftWomenDay\obj\Debug\GiftWomenDay.csprojResolveAssemblyReference.cache
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\GiftWomenDay\bin\Debug\GiftWomenDay.exe.config
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\GiftWomenDay\bin\Debug\GiftWomenDay.exe
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\GiftWomenDay\bin\Debug\GiftWomenDay.pdb
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\GiftWomenDay\obj\Debug\GiftWomenDay.exe
+E:\LOCKED\HCMUS\KI 6\KIEN TRUC PHAN MEM\Exercises\Week 3 - Behavior Pattern\BehaviorPattern\GiftWomenDay\obj\Debug\GiftWomenDay.pdb
